@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic-Deserialization-JSON.API", "Generic-Deserialization-JSON.API.csproj", "{871BFDC8-F60F-4F91-956E-AFBC886286B8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E6495EBB-B738-4353-918D-374F61146A97} = {E6495EBB-B738-4353-918D-374F61146A97}
+		{ED6531AF-A3FF-45AA-A45F-8D338E056920} = {ED6531AF-A3FF-45AA-A45F-8D338E056920}
+		{F7893837-93E8-4270-B5F1-28BFFD821C90} = {F7893837-93E8-4270-B5F1-28BFFD821C90}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic-Deserialization-JSON.Core", "..\Generic-Deserialization-JSON.Core\Generic-Deserialization-JSON.Core.csproj", "{ED6531AF-A3FF-45AA-A45F-8D338E056920}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F7893837-93E8-4270-B5F1-28BFFD821C90} = {F7893837-93E8-4270-B5F1-28BFFD821C90}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic-Deserialization-JSON.Shared", "..\Generic-Deserialization-JSON.Shared\Generic-Deserialization-JSON.Shared.csproj", "{F7893837-93E8-4270-B5F1-28BFFD821C90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic-Deserialization-JSON.Infrastructure", "..\Generic-Deserialization-JSON.Infastructure\Generic-Deserialization-JSON.Infrastructure.csproj", "{E6495EBB-B738-4353-918D-374F61146A97}"
+	ProjectSection(ProjectDependencies) = postProject
+		{ED6531AF-A3FF-45AA-A45F-8D338E056920} = {ED6531AF-A3FF-45AA-A45F-8D338E056920}
+		{F7893837-93E8-4270-B5F1-28BFFD821C90} = {F7893837-93E8-4270-B5F1-28BFFD821C90}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{871BFDC8-F60F-4F91-956E-AFBC886286B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{871BFDC8-F60F-4F91-956E-AFBC886286B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{871BFDC8-F60F-4F91-956E-AFBC886286B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{871BFDC8-F60F-4F91-956E-AFBC886286B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED6531AF-A3FF-45AA-A45F-8D338E056920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED6531AF-A3FF-45AA-A45F-8D338E056920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED6531AF-A3FF-45AA-A45F-8D338E056920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED6531AF-A3FF-45AA-A45F-8D338E056920}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7893837-93E8-4270-B5F1-28BFFD821C90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7893837-93E8-4270-B5F1-28BFFD821C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7893837-93E8-4270-B5F1-28BFFD821C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7893837-93E8-4270-B5F1-28BFFD821C90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6495EBB-B738-4353-918D-374F61146A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6495EBB-B738-4353-918D-374F61146A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6495EBB-B738-4353-918D-374F61146A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6495EBB-B738-4353-918D-374F61146A97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {576EBF9B-21DD-40BF-B638-EB4B445CE95C}
+	EndGlobalSection
+EndGlobal

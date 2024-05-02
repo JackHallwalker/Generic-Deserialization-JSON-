@@ -1,0 +1,7 @@
+﻿{
+  "PropertyA": "root/a",
+  "PropertyB": "root/b/c",
+  "PropertyC": "root/b/d/e",
+  "SubClass.SubPropertyA": "f",
+  "SubClass.SubPropertyB": "h"
+}

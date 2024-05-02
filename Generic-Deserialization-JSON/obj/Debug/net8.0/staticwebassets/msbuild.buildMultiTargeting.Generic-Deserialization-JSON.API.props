@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Generic-Deserialization-JSON.API.props" />
+</Project>
