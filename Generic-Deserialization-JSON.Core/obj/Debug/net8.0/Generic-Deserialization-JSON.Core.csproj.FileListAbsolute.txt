@@ -1,0 +1,11 @@
+C:\Users\ChathusaraRavisanka\OneDrive - Digital400 PVT LTD\Desktop\Projects\Generic-Deserialization-JSON.Core\bin\Debug\net8.0\Generic-Deserialization-JSON.Core.deps.json
+C:\Users\ChathusaraRavisanka\OneDrive - Digital400 PVT LTD\Desktop\Projects\Generic-Deserialization-JSON.Core\bin\Debug\net8.0\Generic-Deserialization-JSON.Core.dll
+C:\Users\ChathusaraRavisanka\OneDrive - Digital400 PVT LTD\Desktop\Projects\Generic-Deserialization-JSON.Core\bin\Debug\net8.0\Generic-Deserialization-JSON.Core.pdb
+C:\Users\ChathusaraRavisanka\OneDrive - Digital400 PVT LTD\Desktop\Projects\Generic-Deserialization-JSON.Core\obj\Debug\net8.0\Generic-Deserialization-JSON.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChathusaraRavisanka\OneDrive - Digital400 PVT LTD\Desktop\Projects\Generic-Deserialization-JSON.Core\obj\Debug\net8.0\Generic-Deserialization-JSON.Core.AssemblyInfoInputs.cache
+C:\Users\ChathusaraRavisanka\OneDrive - Digital400 PVT LTD\Desktop\Projects\Generic-Deserialization-JSON.Core\obj\Debug\net8.0\Generic-Deserialization-JSON.Core.AssemblyInfo.cs
+C:\Users\ChathusaraRavisanka\OneDrive - Digital400 PVT LTD\Desktop\Projects\Generic-Deserialization-JSON.Core\obj\Debug\net8.0\Generic-Deserialization-JSON.Core.csproj.CoreCompileInputs.cache
+C:\Users\ChathusaraRavisanka\OneDrive - Digital400 PVT LTD\Desktop\Projects\Generic-Deserialization-JSON.Core\obj\Debug\net8.0\Generic-Deserialization-JSON.Core.dll
+C:\Users\ChathusaraRavisanka\OneDrive - Digital400 PVT LTD\Desktop\Projects\Generic-Deserialization-JSON.Core\obj\Debug\net8.0\refint\Generic-Deserialization-JSON.Core.dll
+C:\Users\ChathusaraRavisanka\OneDrive - Digital400 PVT LTD\Desktop\Projects\Generic-Deserialization-JSON.Core\obj\Debug\net8.0\Generic-Deserialization-JSON.Core.pdb
+C:\Users\ChathusaraRavisanka\OneDrive - Digital400 PVT LTD\Desktop\Projects\Generic-Deserialization-JSON.Core\obj\Debug\net8.0\ref\Generic-Deserialization-JSON.Core.dll
