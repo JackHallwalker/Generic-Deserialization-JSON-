@@ -1,0 +1,15 @@
+C:\Users\ChathusaraRavisanka\OneDrive - Digital400 PVT LTD\Desktop\Projects\Generic-Deserialization-JSON.Infastructure\bin\Debug\net8.0\Generic-Deserialization-JSON.Infrastructure.deps.json
+C:\Users\ChathusaraRavisanka\OneDrive - Digital400 PVT LTD\Desktop\Projects\Generic-Deserialization-JSON.Infastructure\bin\Debug\net8.0\Generic-Deserialization-JSON.Infrastructure.dll
+C:\Users\ChathusaraRavisanka\OneDrive - Digital400 PVT LTD\Desktop\Projects\Generic-Deserialization-JSON.Infastructure\bin\Debug\net8.0\Generic-Deserialization-JSON.Infrastructure.pdb
+C:\Users\ChathusaraRavisanka\OneDrive - Digital400 PVT LTD\Desktop\Projects\Generic-Deserialization-JSON.Infastructure\bin\Debug\net8.0\Generic-Deserialization-JSON.Core.dll
+C:\Users\ChathusaraRavisanka\OneDrive - Digital400 PVT LTD\Desktop\Projects\Generic-Deserialization-JSON.Infastructure\bin\Debug\net8.0\Generic-Deserialization-JSON.Core.pdb
+C:\Users\ChathusaraRavisanka\OneDrive - Digital400 PVT LTD\Desktop\Projects\Generic-Deserialization-JSON.Infastructure\obj\Debug\net8.0\Generic-Deserialization-JSON.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ChathusaraRavisanka\OneDrive - Digital400 PVT LTD\Desktop\Projects\Generic-Deserialization-JSON.Infastructure\obj\Debug\net8.0\Generic-Deserialization-JSON.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChathusaraRavisanka\OneDrive - Digital400 PVT LTD\Desktop\Projects\Generic-Deserialization-JSON.Infastructure\obj\Debug\net8.0\Generic-Deserialization-JSON.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ChathusaraRavisanka\OneDrive - Digital400 PVT LTD\Desktop\Projects\Generic-Deserialization-JSON.Infastructure\obj\Debug\net8.0\Generic-Deserialization-JSON.Infrastructure.AssemblyInfo.cs
+C:\Users\ChathusaraRavisanka\OneDrive - Digital400 PVT LTD\Desktop\Projects\Generic-Deserialization-JSON.Infastructure\obj\Debug\net8.0\Generic-Deserialization-JSON.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ChathusaraRavisanka\OneDrive - Digital400 PVT LTD\Desktop\Projects\Generic-Deserialization-JSON.Infastructure\obj\Debug\net8.0\Generic-Deserialization-JSON.Infrastructure.csproj.CopyComplete
+C:\Users\ChathusaraRavisanka\OneDrive - Digital400 PVT LTD\Desktop\Projects\Generic-Deserialization-JSON.Infastructure\obj\Debug\net8.0\Generic-Deserialization-JSON.Infrastructure.dll
+C:\Users\ChathusaraRavisanka\OneDrive - Digital400 PVT LTD\Desktop\Projects\Generic-Deserialization-JSON.Infastructure\obj\Debug\net8.0\refint\Generic-Deserialization-JSON.Infrastructure.dll
+C:\Users\ChathusaraRavisanka\OneDrive - Digital400 PVT LTD\Desktop\Projects\Generic-Deserialization-JSON.Infastructure\obj\Debug\net8.0\Generic-Deserialization-JSON.Infrastructure.pdb
+C:\Users\ChathusaraRavisanka\OneDrive - Digital400 PVT LTD\Desktop\Projects\Generic-Deserialization-JSON.Infastructure\obj\Debug\net8.0\ref\Generic-Deserialization-JSON.Infrastructure.dll

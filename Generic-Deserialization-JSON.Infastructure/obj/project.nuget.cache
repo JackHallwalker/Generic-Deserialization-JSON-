@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ouzL9aJn3lNVxhDJMyV2ux0mRpwDgXEY1IhdaGqirercer2EkbgTUdiAaPlKqIio+0inTEg+zRvacg2sZrjpXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ChathusaraRavisanka\\source\\repos\\Generic-Deserialization-JSON-XML\\Generic-Deserialization-JSON.Infastructure\\Generic-Deserialization-JSON.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ChathusaraRavisanka\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
